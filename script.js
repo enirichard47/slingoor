@@ -1,7 +1,7 @@
 const PROJECT = {
   contract: "DNYRJmZuD7cx3rXjaoosQyDx5QBV8ZS3eBWWnUFbpump",
   buyUrl: "https://pump.fun/coin/DNYRJmZuD7cx3rXjaoosQyDx5QBV8ZS3eBWWnUFbpump",
-  xUrl: "https://x.com/TheWhiteScammer",
+  xUrl: "https://x.com/SlingoorTheScam",
   telegramUrl: "https://t.me/SlingoorScammerRebellion",
   dexUrl: "https://dexscreener.com/solana/DNYRJmZuD7cx3rXjaoosQyDx5QBV8ZS3eBWWnUFbpump",
 };
